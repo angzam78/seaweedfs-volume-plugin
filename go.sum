@@ -1,0 +1,15 @@
+github.com/Microsoft/go-winio v0.4.5/go.mod h1:VhR8bwka0BXejwEJY73c50VrPtXAaKcyvVC4A4RozmA=
+github.com/Sirupsen/logrus v1.0.2-0.20170728074214-181d419aa9e2 h1:jl8hEwPZE69erxyeZ4khL3Ytc9gnFArwUMUBG02N0js=
+github.com/Sirupsen/logrus v1.0.2-0.20170728074214-181d419aa9e2/go.mod h1:rmk17hk6i8ZSAJkSDa7nOxamrG+SP4P0mm+DAvExv4U=
+github.com/coreos/go-systemd v0.0.0-20170731111925-d21964639418 h1:0QH6fTJVDpblGjjozilaO++YRbnQNnTYh3yuFJHH0o8=
+github.com/coreos/go-systemd v0.0.0-20170731111925-d21964639418/go.mod h1:F5haX7vjVVG0kc13fIWeqUViNPyEJxv/OmvnBo0Yme4=
+github.com/docker/go-connections v0.3.0 h1:3lOnM9cSzgGwx8VfK/NGOW5fLQ0GjIlCkaktF+n1M6o=
+github.com/docker/go-connections v0.3.0/go.mod h1:Gbd7IOopHjR8Iph03tsViu4nIes5XhDvyHbTtUxmeec=
+github.com/docker/go-plugins-helpers v0.0.0-20170817192157-a9ef19c479cb h1:cjBya0EPevs0NPtO5Sr19MrJKlYVzsFIQIl9Ut9I8+I=
+github.com/docker/go-plugins-helpers v0.0.0-20170817192157-a9ef19c479cb/go.mod h1:LFyLie6XcDbyKGeVK6bHe+9aJTYCxWLBg5IrJZOaXKA=
+golang.org/x/crypto v0.0.0-20170808112155-b176d7def5d7 h1:pTltqCK8DaN/bs+trgnSNPnBjRpKt+K5GyiIyUWyAw0=
+golang.org/x/crypto v0.0.0-20170808112155-b176d7def5d7/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
+golang.org/x/net v0.0.0-20170809000501-1c05540f6879 h1:0rFa7EaCGdQPmZVbo9F7MNF65b8dyzS6EUnXjs9Cllk=
+golang.org/x/net v0.0.0-20170809000501-1c05540f6879/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/sys v0.0.0-20170815135041-9f7170bcd8e9 h1:dtgNtAExDQkcG4cl6ey7Ol/ZvYfYqlvXRw/1a0G7QqM=
+golang.org/x/sys v0.0.0-20170815135041-9f7170bcd8e9/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
